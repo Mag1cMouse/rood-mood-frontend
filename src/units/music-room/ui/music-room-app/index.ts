@@ -1,0 +1,1 @@
+export { MusicRoomApp } from './music-room-app.component'
